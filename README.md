@@ -1,5 +1,6 @@
 # 📅 Schedule App
 
+> fully cursor-generated 
 > A modern, minimalist calendar and task management application with real-time multi-user collaboration
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
